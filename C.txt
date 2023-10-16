@@ -1,0 +1,21 @@
+APC II  
+1. As funções tem como funcionalidade a modularização do codigo,
+trazendo uma organização melhor para o codigo e facil manejamento do algoritmo
+caso necessaria alguma mudança. 
+
+2. Argumentos/Parametros são variaveis que são declaradas junto da função.
+Ela utilizada para quando a função é chamada, identificar as variaveis que serão
+usadas nessa função especifica.
+
+3. Existem diversos tipos de funções, como as funções que retornam valores especificos
+como int, float, char e etc. Tambem existem as funções das bibliotecas fornecidas como
+pow na biblioteca cmath ou fixed setprecision da biblioteca iomanip.
+
+4. Void é um tipo de dado usado para indicar uma função que não retorna nenhum valor.
+Não produz valor de saida.
+
+5. Os argumentos são copiados para os parâmetros da função, de modo que as alterações na função 
+não afetam os valores originais fora dela.
+
+6. Os tipos de retornos são o void, onde a função não retorna nenhum valor.
+Outros tipos de retorno são o int, float, char e etc. Onde retornão valores desse tipo.
